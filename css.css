@@ -1,0 +1,183 @@
+
+
+.navbar-brand{
+    color:white;
+    margin-left: 20px ;
+    font-size: x-large;
+}
+#home{
+    height: 600px;
+    width: 1350px;
+    background-image: url(tree.avif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+
+}
+
+#m5{
+    font-size: 40px;
+    padding-top: 5%;
+    margin-left: 790px;
+}
+#m2{
+    
+    padding-top: 1%;
+    font-size: 40px;
+    margin-left: 950px;
+}
+#m3{
+    font-size: 22px;
+    padding-top: 2%;
+    margin-left: 790px;
+}
+#m4{
+    font-weight: 500;
+    padding-top: 2%;
+    font-size: 15px;
+    margin-left: 870px;
+}
+#btn0{
+   margin-top: 20px;
+    margin-left: 920px;
+    font-size: large;
+    padding-left: 1%;
+    background-color: #000;
+    outline: white;
+    transition: .2s,linear;
+
+}
+
+
+#row1{
+    margin-top: 5%;
+    margin-left: 20%;
+    border: 10px;
+    height: 90px;
+    width: 1000px;
+    background-color: #fff;
+    color: black;
+   
+
+}
+#button2{
+   
+    height:40px;
+    width: 130px;
+    display: flex;
+    margin-left: 1%;
+    margin-top: 20px;
+    font-size: large;
+    align-items: center;
+   
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+    border-radius: 16px;
+    cursor: pointer;
+    outline: white;
+    transition: .2s,linear;
+
+}
+#pic{
+    height: 500px;
+    width: 500px;
+}
+.card-text{
+    font-size: x-large;
+    font-weight: 400;
+}
+.card:hover{
+    transform: scale(1.07);
+    
+}
+#goalink{
+    text-decoration: none;
+    color: black;
+}
+#packages{
+    margin-top: 20%;
+    margin-left: 5%;
+
+}
+#btn1 {
+    margin-bottom: 2px;
+    margin-top: 68px;
+    
+}
+#btn2 {
+    margin-bottom: 2px;
+    margin-top: 58px;
+    
+}
+
+#btn5 {
+    margin-bottom: 2px;
+    margin-top: 53px;
+    
+}
+#btn4 {
+    margin-bottom: 2px;
+    margin-top: 10px;
+    
+}
+#pack{
+    margin-left: 40%;
+}
+#services{
+   margin-top: 4%;
+   margin-left: 5%;
+   margin-right: 5%;
+   text-align: center;
+    font-size: large;
+    font-weight: 500;
+}
+div.card{
+  
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: rgb(225, 225, 225);
+    border-radius: 1rem;
+    
+
+}
+#contactus{
+    text-align: center;
+    margin-top: 15%;
+    text-overflow: 30px ;
+    border-width: 1px 1px 1px 1px;
+    border-style: solid;
+    border-color: rgb(225, 225, 225);
+    border-radius: 1rem;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10%;
+    padding-top: 3%;
+    padding-bottom: 5%;
+    font-size: larger;
+    font-weight: 100;
+
+}
+#align{
+    margin-left: 30%;
+   
+}
+
+#aboutus{
+    padding-top: 4%;
+    margin-top: 5%;
+ 
+    background-color: #000;
+    color: #fff;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 3%;
+
+   
+
+}
+a{
+    text-decoration: none;
+}
+
+
